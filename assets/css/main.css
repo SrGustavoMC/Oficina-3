@@ -172,7 +172,7 @@ input, select, textarea {
 	}
 
 	p, ul, ol, dl, table {
-		margin-top: 2em;
+		margin-top: 0em;
 		margin-bottom: 2em;
 	}
 
