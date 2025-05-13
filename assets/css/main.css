@@ -2906,3 +2906,6 @@ input, select, textarea {
 			}
 
 	}
+	p {
+  margin-top: 4px; 
+}
